@@ -1,0 +1,15 @@
+#list {
+  background-color: bisque;
+  margin: 8px;
+}
+.listItem {
+  font-weight: 600;
+}
+#textField {
+  padding: 8px;
+  margin-right: 8px;
+}
+#add {
+  padding: 8px;
+  width: 120px;
+}
